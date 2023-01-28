@@ -90,3 +90,4 @@ Testing the webserver
 ![Screenshot (1)](https://user-images.githubusercontent.com/119476069/215253526-f79f9e1c-c891-48b9-9bf0-2614161615b4.png)
 
 ## RESULT:
+The output for calculator is displayed successfully.
